@@ -31,6 +31,16 @@ body
     background: #003147;
     padding: 40px;
 }
+.container .left_Side header
+{
+    color: #fff; 
+    font-size: 1.5em; 
+    margin-top: 20px;
+    text-transform: uppercase; 
+    text-align: center;
+    font-weight: 600;
+    Line-height: 1.4em;
+}
 .profileText
 {
     position: relative;
